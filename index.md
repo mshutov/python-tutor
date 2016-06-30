@@ -21,10 +21,10 @@ layout: page
 
 ## План заданий
 
-1. [Знакомство с инструментами]({{site.baseurl}}/tools/)
+1. [Знакомство с инструментами]({{site.baseurl}}/znakomstvo-s-instrumentami/)
 2. Лёгкие задания
     * [Начинаем писать]({{site.baseurl}}/nachinaem-pisat/)
-    * Приветствие в соответствии с временем суток
+    * [Приветствие в соответствии с временем суток]({{site.baseurl}}/privetstvie-v-sootvetstvii-s-vremenem-sutok/)
     * Написание простых тестов
     * Знакомство с PyCharm
     * Первый плагин

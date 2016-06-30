@@ -23,4 +23,4 @@ def hello_func():
     print("Здравствуйте, ", name, "!", sep='')
 ```
 
-Далее — приветствие в соответствии с временем суток
+Далее — [приветствие в соответствии с временем суток]({{site.baseurl}}/privetstvie-v-sootvetstvii-s-vremenem-sutok/)
