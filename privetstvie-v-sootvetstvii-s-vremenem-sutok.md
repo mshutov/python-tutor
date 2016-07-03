@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /privetstvie-v-sootvetstvii-s-vremenem-sutok/
 ---
 # Приветствие в соответствии с временем суток
 
