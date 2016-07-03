@@ -26,19 +26,19 @@ permalink: /znakomstvo-s-instrumentami/
 
 В консоли Python (или IDLE) проверим пару простых выражений
 
-``` python-console
+``` python
 >>> 2 + 2
 ```
 
 затем Enter. Следующей строкой увидим ответ:
 
-``` python-console
+``` python
 4
 ```
 
 Так можно попробовать вводить любые арифметические выражения и получать результат.
 
-``` python-console
+``` python
 >>> 3 / 4
 0.75
 ```
@@ -65,7 +65,7 @@ print(3/4)
 
 сохраним (`Ctrl+S`), запустим (`F5`) и увидим результат:
 
-``` python-console
+``` python
 4
 0.75
 ```
