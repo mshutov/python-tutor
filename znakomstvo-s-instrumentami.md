@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /znakomstvo-s-instrumentami/
 ---
 
 # Знакомство с инструментами
