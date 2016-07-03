@@ -7,7 +7,7 @@ permalink: /privetstvie-v-sootvetstvii-s-vremenem-sutok/
 Для работы со временем будем использовать модуль [datetime](https://docs.python.org/3/library/datetime.html) и конкретно класс [datetime](https://docs.python.org/3/library/datetime.html#datetime.datetime). 
 Так как класс в отдельном модуле, его необходимо предварительно импортировать, иначе получим ошибку:
 
-```
+```text.python.traceback
 Traceback (most recent call last):
   File "<pyshell#0>", line 1, in <module>
     datetime.now()
